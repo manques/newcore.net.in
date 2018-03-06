@@ -1,0 +1,188 @@
+[23-Sep-2017 11:09:28 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[23-Sep-2017 11:09:29 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[29-Sep-2017 13:19:33 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[29-Sep-2017 13:19:33 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[30-Sep-2017 12:27:02 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[30-Sep-2017 12:27:03 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[02-Oct-2017 22:05:51 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/archive.php on line 12
+[02-Oct-2017 22:05:52 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/archive.php on line 12
+[03-Oct-2017 03:33:36 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/archive.php on line 12
+[03-Oct-2017 03:33:37 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/archive.php on line 12
+[03-Oct-2017 15:50:40 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/archive.php on line 12
+[03-Oct-2017 15:50:41 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/archive.php on line 12
+[06-Oct-2017 09:58:08 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/newco9fx/public_html/wp-content/themes/vantage/header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/header.php on line 12
+[06-Oct-2017 09:58:08 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/newco9fx/public_html/wp-content/themes/vantage/header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/header.php on line 12
+[06-Oct-2017 14:11:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/newco9fx/public_html/wp-content/themes/vantage/header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/header.php on line 12
+[06-Oct-2017 14:11:01 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/newco9fx/public_html/wp-content/themes/vantage/header.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/header.php on line 12
+[07-Oct-2017 08:47:25 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[07-Oct-2017 08:47:25 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[09-Oct-2017 07:31:13 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[09-Oct-2017 07:31:13 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[17-Oct-2017 04:17:21 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[17-Oct-2017 04:17:21 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[27-Oct-2017 08:05:47 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[27-Oct-2017 08:05:47 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[31-Oct-2017 21:54:43 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[31-Oct-2017 21:54:43 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[20-Dec-2017 15:19:17 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[20-Dec-2017 15:19:17 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[20-Dec-2017 15:19:22 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[20-Dec-2017 15:19:22 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[20-Dec-2017 15:19:26 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[20-Dec-2017 15:19:27 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[20-Dec-2017 15:19:31 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[20-Dec-2017 15:19:31 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[04-Jan-2018 19:06:02 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[04-Jan-2018 19:06:03 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[06-Jan-2018 04:26:10 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[06-Jan-2018 04:26:10 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[07-Jan-2018 00:39:05 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[07-Jan-2018 00:39:06 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[23-Jan-2018 07:41:37 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[23-Jan-2018 07:41:37 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[23-Jan-2018 07:41:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[23-Jan-2018 07:41:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[01-Feb-2018 08:16:26 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[01-Feb-2018 08:16:26 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[01-Feb-2018 11:33:38 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[01-Feb-2018 11:33:38 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[01-Feb-2018 12:08:45 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[01-Feb-2018 12:08:46 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[23-Feb-2018 08:33:40 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[23-Feb-2018 08:33:40 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[23-Feb-2018 08:33:46 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[23-Feb-2018 08:33:46 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/index.php on line 16
+[02-Mar-2018 15:37:07 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
+[02-Mar-2018 15:37:07 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/newco9fx/public_html/wp-content/themes/vantage/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/newco9fx/public_html/wp-content/themes/vantage/404.php on line 10
